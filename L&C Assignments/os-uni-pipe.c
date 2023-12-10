@@ -1,5 +1,4 @@
 //===========HEADER=============
-#define _DEFAULT_SOURCE //To avoid usleep warning
 #include<stdio.h> 
 #include<stdlib.h> 
 #include<unistd.h> 
